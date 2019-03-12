@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+apt-get install nodejs -y
+npm install --save readline colors request
+node spam.js
