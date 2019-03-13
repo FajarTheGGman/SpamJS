@@ -5,7 +5,6 @@
 var req = require('request');
 var cl = require('colors');
 var pr = require('readline');
-var sh = require('shelljs');
 var ulang = 0;
 
 //Sedikit hiasan :v
