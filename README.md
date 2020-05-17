@@ -20,3 +20,7 @@ Done.
 4.sh install
 5.node spam.js
 </pre>
+
+
+# Buy Me Some Coffe :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
